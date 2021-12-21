@@ -1,0 +1,3 @@
+[submodule "01-Draft"]
+	path = 01-Draft
+	url = https://github.com/quarkquartet/Local-EWBG-Parity
