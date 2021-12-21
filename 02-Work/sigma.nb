@@ -1,0 +1,106 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 12.2' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      2983,         96]
+NotebookOptionsPosition[      2063,         71]
+NotebookOutlinePosition[      2466,         87]
+CellTagsIndexPosition[      2423,         84]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell["Sphaleron decoupling", "Title",ExpressionUUID->"d492917b-f0bf-47a1-90eb-69ed3bd6ffef"],
+
+Cell[CellGroupData[{
+
+Cell["SM", "Section",ExpressionUUID->"cc6ee684-5403-400b-b4ae-881ac4b7e7c6"],
+
+Cell[TextData[{
+ "The sphaleron is sharply turned at ",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{
+    SubscriptBox["T", "C"], "=", 
+    RowBox[{"159", " ", "GeV"}]}], TraditionalForm]],
+  FormatType->TraditionalForm,ExpressionUUID->
+  "56c08b67-5fbc-4c0b-afbd-5cfb254e4e6d"],
+ "."
+}], "TextIndent",ExpressionUUID->"85eed778-86e5-4234-953d-eab31672391c"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{"\[Alpha]W", "=", 
+   FractionBox[
+    SuperscriptBox["0.65", "2"], 
+    RowBox[{"4", "\[Pi]"}]]}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{"Tc", "=", "159."}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"\[Phi]", "=", 
+   RowBox[{
+    SqrtBox["0.1"], "*", "Tc"}]}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"mW", "=", 
+   RowBox[{
+    FractionBox["\[Phi]", "2"], "*", "0.65"}]}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{"\[Sigma]", "=", 
+  FractionBox["mW", 
+   RowBox[{"\[Alpha]W", " ", "Tc"}]]}]}], "Input",
+ CellLabel->"In[5]:=",ExpressionUUID->"939b9cb4-a9ed-49f0-9748-4bc7be4b3d9f"],
+
+Cell[BoxData["159.`"], "Output",
+ CellLabel->"Out[6]=",ExpressionUUID->"e2d142d2-d050-4df5-9c63-01bebaab6e62"],
+
+Cell[BoxData["3.056796389475724`"], "Output",
+ CellLabel->"Out[9]=",ExpressionUUID->"995e55ed-b483-479c-ae78-edf24289de88"]
+}, Open  ]]
+}, Open  ]]
+}, Open  ]]
+},
+WindowSize->{808, 911},
+WindowMargins->{{4, Automatic}, {Automatic, 4}},
+FrontEndVersion->"12.2 for Mac OS X x86 (64-bit) (December 12, 2020)",
+StyleDefinitions->"Cambria Article.nb",
+ExpressionUUID->"af10bcd6-2ddc-484a-8de8-6b7b821ca93a"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[580, 22, 92, 0, 76, "Title",ExpressionUUID->"d492917b-f0bf-47a1-90eb-69ed3bd6ffef"],
+Cell[CellGroupData[{
+Cell[697, 26, 76, 0, 71, "Section",ExpressionUUID->"cc6ee684-5403-400b-b4ae-881ac4b7e7c6"],
+Cell[776, 28, 349, 10, 28, "TextIndent",ExpressionUUID->"85eed778-86e5-4234-953d-eab31672391c"],
+Cell[CellGroupData[{
+Cell[1150, 42, 634, 18, 165, "Input",ExpressionUUID->"939b9cb4-a9ed-49f0-9748-4bc7be4b3d9f"],
+Cell[1787, 62, 110, 1, 31, "Output",ExpressionUUID->"e2d142d2-d050-4df5-9c63-01bebaab6e62"],
+Cell[1900, 65, 123, 1, 31, "Output",ExpressionUUID->"995e55ed-b483-479c-ae78-edf24289de88"]
+}, Open  ]]
+}, Open  ]]
+}, Open  ]]
+}
+]
+*)
+
+(* End of internal cache information *)
+
