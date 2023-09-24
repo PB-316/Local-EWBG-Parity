@@ -8645,7 +8645,7 @@ kySGVIUbtL+ioD42UTM1RaJZsnqt+X8U/A8ip1Vt
 },
 WindowSize->{1028, 913},
 WindowMargins->{{Automatic, 395}, {Automatic, 43}},
-FrontEndVersion->"13.2 for Mac OS X x86 (64-bit) (January 30, 2023)",
+FrontEndVersion->"13.2 for Mac OS X ARM (64-bit) (January 30, 2023)",
 StyleDefinitions->"Default-Modified.nb",
 ExpressionUUID->"b7d04476-8130-4b11-881f-5ce8e1b406fd"
 ]
@@ -8701,8 +8701,8 @@ Cell[144083, 2921, 2623, 76, 335, "Input",ExpressionUUID->"e80f789a-9864-41be-90
 Cell[146709, 2999, 27993, 777, 1652, "Input",ExpressionUUID->"13e4e086-d0bf-4251-93e3-a21666e7151c"],
 Cell[CellGroupData[{
 Cell[174727, 3780, 559, 14, 57, "Input",ExpressionUUID->"5e9ef7b9-1626-477b-9c1d-61c5986bf4af"],
-Cell[175289, 3796, 474, 11, 48, "Message",ExpressionUUID->"d8ff21e6-49ac-481f-9ae3-0732e564be09"],
-Cell[175766, 3809, 986, 19, 48, "Message",ExpressionUUID->"c72f64c8-4c96-4ee4-9cd1-68558d8c2734"],
+Cell[175289, 3796, 474, 11, 46, "Message",ExpressionUUID->"d8ff21e6-49ac-481f-9ae3-0732e564be09"],
+Cell[175766, 3809, 986, 19, 46, "Message",ExpressionUUID->"c72f64c8-4c96-4ee4-9cd1-68558d8c2734"],
 Cell[176755, 3830, 841, 17, 20, "Print",ExpressionUUID->"e1037f6e-055a-4cad-8738-7966f6d31194"],
 Cell[177599, 3849, 248, 6, 33, "Output",ExpressionUUID->"edc5f5f2-2364-456d-b3a8-62e8ec5dd3b9"]
 }, Open  ]],
